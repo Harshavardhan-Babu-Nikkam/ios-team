@@ -1,5 +1,5 @@
 
-# O.C. Tanner Swift Style Guide
+# O.C. Tanner SwiftUI Style Guide
 
 This style guide outlines the coding conventions of the iOS team at O.C. Tanner for SwiftUI.
 
