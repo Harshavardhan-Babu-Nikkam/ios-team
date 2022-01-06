@@ -45,14 +45,7 @@ Text(awardViewModel.receiverViewModel.name)
   .fixedSize(horizontal: false, vertical: true)
 ```
 
-* A View object that ends with `}` if it only has one modifier it will be on the same line, if there are more than one that each
-modifier will be on its own line
-
-```
-Button(action: self.performOutro) {
-  Text(UserFacing.getStarted)
-}.foregroundColor(.red)
-```
+* A View object that ends with `}` each modifier will be on its own line
 
 ```
 Button(action: self.performOutro) {
